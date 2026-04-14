@@ -5,6 +5,11 @@ This project demonstrates backend API development, file handling, and Docker-bas
 
 ---
 
+## Docker
+
+Docker is used to containerize the FastAPI-based log analyzer, ensuring it runs consistently across different environments without dependency issues. It simplifies setup and deployment by packaging the application, its libraries, and configurations together. This also makes the project easily scalable and production-ready.
+
+--
 ## Overview
 
 The Log Analyzer API allows users to upload plain text log files and extract key insights, including:
